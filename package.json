@@ -1,0 +1,17 @@
+{
+  "name": "ttb-cache-api",
+  "version": "0.1.0",
+  "description": "Create cache on your TimeSquAir",
+  "main": "cache.js",
+  "keywords": [
+    "Node-RED",
+    "TimeSquAir",
+    "cache"
+  ],
+  "author": "Digital Airways, thethingbox@gmail.com",
+  "license": "WTFPL",
+  "dependencies": {
+    "mkdirp": "0.5.1",
+    "nodejs-fs-utils": "1.1.0"
+  }
+}
